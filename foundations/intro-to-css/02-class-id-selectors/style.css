@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #ffcccc;
+    font-family: Verdana, D;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font-large {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #ccffcc;
+    font-size: 24px;
+    font-weight: bold;
+}
